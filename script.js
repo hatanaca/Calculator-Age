@@ -37,3 +37,6 @@ function calculateAge(){
         }
     }
 }
+
+var exemplor = Map;
+console.log(exemplor);

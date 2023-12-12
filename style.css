@@ -65,3 +65,10 @@
     background-size: 30px;
     cursor: pointer;
 }
+#result{
+    font-size: 20px;
+    margin-left: 10%
+}
+#result span{
+    color: #ffff76;
+}
